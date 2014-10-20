@@ -15,6 +15,15 @@
       "type": "Feature",
       "properties": {
         "Contributor": "Prof. C. David Sherrill",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -84.397114, 33.779196 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Contributor": "Robert Parrish"
       },
       "geometry": {
