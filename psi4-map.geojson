@@ -5,11 +5,12 @@
       "type": "Feature",
       "properties": {
         "Contributor": "Prof. T. Daniel Crawford"
-      }
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [ 37.227944, -80.425480 ]
-      },
+      }
     }
   ]
 }
+
