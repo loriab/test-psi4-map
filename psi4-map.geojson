@@ -50,6 +50,16 @@
         "type": "Point",
         "coordinates": [ -84.323978, 33.792391 ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contributor": "Prof. Rollin King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -93.161380, 45.057793 ]
+      }
     }
   ]
 }
