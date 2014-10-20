@@ -1,1 +1,15 @@
-Hello
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Contributor": "Prof. T. Daniel Crawford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -80.425383, 37.227933 ]
+      }
+    }
+  ]
+}
