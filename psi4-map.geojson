@@ -10,6 +10,16 @@
         "type": "Point",
         "coordinates": [ -80.425383, 37.227933 ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contributor": "Prof. C. David Sherrill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -84.397114, 33.779196 ]
+      }
     }
   ]
 }
