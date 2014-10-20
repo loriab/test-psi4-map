@@ -20,6 +20,26 @@
         "type": "Point",
         "coordinates": [ -84.397114, 33.779196 ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contributor": "Dr. Justin Turney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -83.374849, 33.948179 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contributor": "Dr. Andy Simmonett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -77.107391, 39.004089 ]
+      }
+    },
   ]
 }
