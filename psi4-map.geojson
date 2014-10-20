@@ -24,16 +24,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Robert Parrish"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [ -84.397415, 33.779058 ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Contributor": "Dr. Justin Turney"
       },
       "geometry": {
