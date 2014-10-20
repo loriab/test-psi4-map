@@ -14,7 +14,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Prof. C. David Sherrill"
+        "Contributor": "Prof. C. David Sherrill",
+        "Contributor": "Robert Parrish"
       },
       "geometry": {
         "type": "Point",
