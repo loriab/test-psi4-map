@@ -40,6 +40,16 @@
         "type": "Point",
         "coordinates": [ -77.107391, 39.004089 ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contributor": "Prof. Francesco Evangelista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -84.323978, 33.792391 ]
+      }
     }
   ]
 }
