@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "Contributor": "Prof. T. Daniel Crawford",
         "Contributor": "Prof. T. Daniel Crawford"
       },
       "geometry": {
