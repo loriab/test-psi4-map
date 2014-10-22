@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Site Lead": "Prof. T. Daniel Crawford",
-        "Contributor": "Blah blaghbbiel Crawford"
+        "Prof. T. Daniel Crawford",
+        "Dr. Benjamin Pritchard"
       },
       "geometry": {
         "type": "Point",
@@ -15,7 +15,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Prof. C. David Sherrill"
+        "Co-PI": "Prof. C. David Sherrill",
+        "Contributor": "Robert C. Parrish"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Dr. Andy Simmonett"
+        "Site Lead": "Dr. Andy Simmonett"
       },
       "geometry": {
         "type": "Point",
