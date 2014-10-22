@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Prof. T. Daniel Crawford",
-        "Contributor": "Prof. T. Daniel Crawford"
+        "Site Lead": "Prof. T. Daniel Crawford",
+        "Contributor": "Blah blaghbbiel Crawford"
       },
       "geometry": {
         "type": "Point",
