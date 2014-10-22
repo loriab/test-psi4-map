@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Prof. T. Daniel Crawford",
-        "Dr. Benjamin Pritchard"
+"Virginia Tech" : "<br/>Prof. T. Daniel Crawford <br/>Dr. Benjamin Pritchard <br/>Harley McAlexander <br/>Ashutosh Kumar"
+ 
       },
       "geometry": {
         "type": "Point",
@@ -15,8 +15,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Co-PI": "Prof. C. David Sherrill",
-        "Contributor": "Robert C. Parrish"
+"Georgia Tech": "<br/>Prof. C. David Sherrill <br/>Robert C. Parrish"
       },
       "geometry": {
         "type": "Point",
@@ -26,7 +25,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Dr. Justin Turney"
+"University of Georgia": "<br/>Dr. Justin Turney"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +35,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Site Lead": "Dr. Andy Simmonett"
+"National Institutes of Health": "<br/>Dr. Andrew Simmonett"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Prof. Francesco Evangelista"
+"Emory University": "<br/>Prof. Francesco Evangelista"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +55,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Contributor": "Prof. Rollin King"
+"Bethel University": "<br/>Prof. Rollin King"
       },
       "geometry": {
         "type": "Point",
