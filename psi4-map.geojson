@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-"Virginia Tech" : "Prof. T. Daniel Crawford <br/>Dr. Benjamin Pritchard <br/>Harley McAlexander <br/>Ashutosh Kumar"
+"Virginia Tech" : "Prof. T. Daniel Crawford<br/>Prof. Edward Valeev<br/>Dr. Benjamin Pritchard<br/>Harley McAlexander<br/>Ashutosh Kumar"
  
       },
       "geometry": {
@@ -15,7 +15,7 @@
     {
       "type": "Feature",
       "properties": {
-"Georgia Tech": "Prof. C. David Sherrill <br/>Robert C. Parrish"
+"Georgia Tech": "Prof. C. David Sherrill<br/>Robert C. Parrish"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +25,7 @@
     {
       "type": "Feature",
       "properties": {
-"University of Georgia": "Dr. Justin Turney"
+"University of Georgia": "Dr. Justin Turney<br/>Prof. Henry F. Schaefer"
       },
       "geometry": {
         "type": "Point",
@@ -60,6 +60,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [ -93.161380, 45.057793 ]
+      }
+    }
+    {
+      "type": "Feature",
+      "properties": {
+"Florida State University": "Prof. Eugene DePrince"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -84.298698, 30.441799 ]
+      }
+    }
+    {
+      "type": "Feature",
+      "properties": {
+"City College of New York": "Prof. Edward Hohenstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -73.950006, 40.820009 ]
+      }
+    }
+    {
+      "type": "Feature",
+      "properties": {
+"Ataturk University": "Prof. Ugur Bozkaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  41.248649, 39.901892 ]
       }
     }
   ]
