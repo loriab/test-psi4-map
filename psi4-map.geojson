@@ -91,6 +91,16 @@
         "type": "Point",
         "coordinates": [  41.248649, 39.901892 ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"Artic University of Norway": "Roberto di Remigio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 18.977050, 69.682090 ]
+      }
     }
   ]
 }
