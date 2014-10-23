@@ -101,6 +101,17 @@
         "type": "Point",
         "coordinates": [ 18.977050, 69.682090 ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+"Princeton University": "Alexander Sokolov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -74.650182, 40.342991 ]
+      }
     }
   ]
 }
+
